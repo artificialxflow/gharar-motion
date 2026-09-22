@@ -1,0 +1,6 @@
+{
+  "name": "Gharar Motion",
+  "description": "سامانه هوشمند تدوین قرارها، لوایح قضایی و سنجش ریسک غرر و شفافیت در قراردادها و دعاوی حقوقی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
